@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ntesh/CLionProjects/SafeMap2.cpp/main.cpp
+iostream
+-
+list
+-
+vector
+-
+bits/stdc++.h
+-
+

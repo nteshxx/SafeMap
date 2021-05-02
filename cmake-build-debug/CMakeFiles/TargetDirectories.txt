@@ -1,0 +1,3 @@
+C:/Users/ntesh/CLionProjects/SafeMap2.cpp/cmake-build-debug/CMakeFiles/SafeMap2_cpp.dir
+C:/Users/ntesh/CLionProjects/SafeMap2.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ntesh/CLionProjects/SafeMap2.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
