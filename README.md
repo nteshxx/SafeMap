@@ -34,4 +34,4 @@ Sample Input    ---------       Sample Output
 3 2                                         There is no Safe Path from 3 to 2
 0 2                                         There is a Safe Path from 0 to 2 and path length is 1
 
-But, Your program should run for all sorts of graphs possible, not only the above graph. The program will be tested against all sorts of test cases, so you may lose marks if you create a program which gives a conditional output.
+Program should run for all sorts of graphs possible, not only the above graph.
