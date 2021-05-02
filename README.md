@@ -29,9 +29,14 @@ Sample Test Graph
 -  g.addSafeRoute(2, 3);
 
 
-Input__Output <br />
-2_3____There is a Safe Path from 2 to 3 and path length is 1 <br />
-3_2____There is no Safe Path from 3 to 2 <br />
-0_2____There is a Safe Path from 0 to 2 and path length is 1 <br />
+Input <br />
+2 3<br />
+3 2<br />
+0 2<br />
+
+Output <br />
+There is a Safe Path from 2 to 3 and path length is 1 <br />
+There is no Safe Path from 3 to 2 <br />
+There is a Safe Path from 0 to 2 and path length is 1 <br />
 
 Program works for all sorts of graphs possible, not only the above graph.
